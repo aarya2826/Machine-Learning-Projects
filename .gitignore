@@ -1,0 +1,25 @@
+# Large data files
+*.csv
+*.7z
+*.zip
+*.rar
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+venv/
+env/
